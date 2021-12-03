@@ -1,2 +1,2 @@
 # Gaming
-Emeulation
+Emulation
